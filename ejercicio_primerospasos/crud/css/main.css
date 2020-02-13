@@ -1,0 +1,19 @@
+.mi_contenedor{
+    margin: 50px;
+}
+
+input:focus {
+    border : 2px solid rgb(238, 36, 36) !important;
+    box-shadow: 0 0 0px !important;
+ 
+}
+
+table{
+    margin-top: 50px;
+
+}
+#btnActualizar{
+    display: none;
+
+}
+    
